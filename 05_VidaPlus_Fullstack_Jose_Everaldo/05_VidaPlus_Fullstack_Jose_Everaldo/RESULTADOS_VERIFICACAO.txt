@@ -1,0 +1,4 @@
+Execução em ambiente isolado, 2026
+12 passed in 0.29s
+7 verificações estáticas; 5 testes HTTP sem banco de dados.
+Sem comprovação de cadastro/login/consultas em PostgreSQL.
